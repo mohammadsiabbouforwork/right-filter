@@ -20,15 +20,15 @@
     "url": "https://github.com/Liberty-liu/Everright-filter.git"
   },
   "type": "module",
-  "main": "./dist/EverrightFilter-without-element-plus.umd.cjs",
-  "module": "./dist/EverrightFilter-without-element-plus.js",
-  "style": "./dist/EverrightFilter-without-element-plus.css",
+  "main": "./dist/EverrightFilter-with-element-plus.umd.cjs",
+  "module": "./dist/EverrightFilter-with-element-plus.js",
+  "style": "./dist/EverrightFilter-with-element-plus.css",
   "exports": {
     ".": {
-      "import": "./dist/EverrightFilter-without-element-plus.js",
-      "require": "./dist/EverrightFilter-without-element-plus.umd.cjs"
+      "import": "./dist/EverrightFilter-with-element-plus.js",
+      "require": "./dist/EverrightFilter-with-element-plus.umd.cjs"
     },
-    "./dist/style.css": "./dist/EverrightFilter-without-element-plus.css",
+    "./dist/style.css": "./dist/EverrightFilter-with-element-plus.css",
     "./dist/*": "./dist/*"
   },
   "unpkg": "dist/EverrightFilter-with-element-plus.iife.js",
