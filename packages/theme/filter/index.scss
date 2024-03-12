@@ -1,9 +1,9 @@
 //@use '../base' as *;
 $namespace: 'Everright-filter';
 $component-width: (
-  'trigger': 300px,
+  'trigger': 150px,
   'operator': 150px,
-  'value': 300px
+  'value': 150px
 );
 @import './Main';
 @import './PickerComponent';
